@@ -10,11 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@atlaskit/theme": "^12.6.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
     "react": "^18.2.0",
+    "react-beautiful-dnd": "^13.1.1",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.18",
+    "@types/react-beautiful-dnd": "^13.1.4",
     "@types/react-dom": "^18.2.7",
     "@typescript-eslint/eslint-plugin": "^6.2.1",
     "@typescript-eslint/parser": "^6.2.1",
