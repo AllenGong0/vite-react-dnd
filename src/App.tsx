@@ -1,5 +1,5 @@
-import "./App.css";
-import TaskApp from "./components/multi-drag/task-app";
+import './App.css';
+import TaskApp from './components/multi-drag/task-app';
 
 function App() {
   return (
